@@ -1,0 +1,10 @@
+development:
+  adapter: sqlite3
+  database: emporium_development
+  username: emporium
+  password: hacked
+test:
+  adapter: sqlite3
+  database: emporium_test
+  username: emporium
+  password: hacked
